@@ -235,3 +235,7 @@ Lenovo,16,16th Gen,Ryzen 7,16GB GB,512 GB SSD,Newegg,PC Laptops,https://www.newe
 LENOVO,16,16th Gen,Ryzen 7,16GB GB,512GB SSD,Newegg,PC Laptops,https://www.newegg.com/p/1TS-000E-19XS2,8206.38,6703.38,18%,2025-02-02 18:42:12
 Lenovo,16,16th Gen,Ryzen 7,40GB GB,2TB SSD,Newegg,PC Laptops,https://www.newegg.com/p/1TS-000E-1B3F2,10621.1,9719.3,8%,2025-02-02 18:42:12
 HP,15,12th Gen,Core i7,32GB GB,512GB SSD,Newegg,PC Laptops,https://www.newegg.com/silver-hp-hd-15-dy5073dx-mainstream/p/1TS-000D-1G1H6,6673.32,N/A,Aucune,2025-02-02 18:42:12
+Brand,Model,Generation,Processor,RAM,Storage,Marketplace,Category,Link,priceInitial,pricePromo,promotiontype,collectionTime
+MSI,13th,13th Gen,Core i7,16GB GB,512GB SSD,Newegg,PC Laptops,https://www.newegg.com/p/2WC-000C-0GXH3,10049.9,7939.4,21%,2025-02-05 21:08:47
+Dell,7420,11th Gen,Core i7,32GB GB,256 GB SSD,Newegg,PC Laptops,https://www.newegg.com/dell-7420-14-0-intel-core-i7-1185g7-32gb-intel-iris-xe-graphics-256-gb/p/N82E16834833367,7034.9,3919.4,44%,2025-02-05 21:08:47
+Lenovo,15,15th Gen,Ryzen 5,40GB GB,1TB SSD,Newegg,PC Laptops,https://www.newegg.com/p/1TS-000E-1ANB2,5818.95,N/A,Aucune,2025-02-05 21:08:47
