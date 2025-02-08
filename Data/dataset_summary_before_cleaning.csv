@@ -1,0 +1,10 @@
+,Rows,Columns,Missing Values,Duplicate Rows
+Jumia_Laptops,126,"['Brand', 'Model', 'Generation', 'Processor', 'RAM', 'Storage', 'marketplace', 'category', 'link', 'priceInitial', 'pricePromo', 'promotiontype', 'collectionTime']",0,0
+Jumia_Smartphones,3076,"['Brand', 'Model', 'Storage', 'marketplace', 'category', 'link', 'priceInitial', 'pricePromo', 'promotiontype', 'collectionTime']",1072,0
+Jumia_Tablettes,248,"['Brand', 'Model', 'Storage', 'marketplace', 'category', 'link', 'priceInitial', 'pricePromo', 'promotiontype', 'collectionTime']",28,11
+MarjaneMall_Laptops,79,"['Brand', 'Model', 'Generation', 'Processor', 'RAM', 'Storage', 'marketplace', 'category', 'link', 'priceInitial', 'pricePromo', 'promotiontype', 'collectionTime']",72,0
+MarjaneMall_Smartphones,447,"['Brand', 'Model', 'Storage', 'marketplace', 'category', 'link', 'priceInitial', 'pricePromo', 'promotiontype', 'collectionTime']",440,0
+MarjaneMall_Tablettes,14,"['Brand', 'Model', 'Storage', 'marketplace', 'category', 'link', 'priceInitial', 'pricePromo', 'promotiontype', 'collectionTime']",8,0
+Newegg_Laptops,241,"['Brand', 'Model', 'Generation', 'Processor', 'RAM', 'Storage', 'Marketplace', 'Category', 'Link', 'priceInitial', 'pricePromo', 'promotiontype', 'collectionTime']",177,0
+Newegg_Phones,113,"['Brand', 'Model', 'Storage', 'Marketplace', 'Category', 'Link', 'priceInitial', 'pricePromo', 'promotiontype', 'collectionTime']",101,4
+Newegg_Tablets,1245,"['Brand', 'Model', 'Storage', 'category', 'marketplace', 'link', 'priceInitial', 'pricePromo', 'promotionType', 'collectionTime']",1126,2

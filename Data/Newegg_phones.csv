@@ -1,114 +1,110 @@
-Brand,Model,Storage,Marketplace,Category,Link,priceInitial,pricePromo,promotiontype,collectionTime
-Samsung,Galaxy S20,128GB,Newegg,PC Laptops,https://www.newegg.com/p/N82E16875168159,1650.0,N/A,Aucune,2025-01-31 00:58:15
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168168,2650.0,N/A,Aucune,2025-01-31 00:58:15
-Apple,iPhone 14,128GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-000A-00UV3,3999.9,3649.9,8%,2025-01-31 00:58:15
-Apple,iPhone 13,128GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-000A-00V30,2999.9,2749.9,8%,2025-01-31 00:58:15
-Apple,iPhone 13,128GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-000A-00UY4,3149.9,2849.9,9%,2025-01-31 00:58:15
-Apple,iPhone 13,128GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-000A-00NA2,3399.9,3049.9,10%,2025-01-31 00:58:15
-Apple,iPhone 13,128GB,Newegg,PC Laptops,https://www.newegg.com/apple-iphone-13-6-1-midnight/p/23M-0003-02672,3099.9,2799.9,9%,2025-01-31 00:58:15
-Apple,iPhone 14,256GB,Newegg,PC Laptops,https://www.newegg.com/apple-iphone-14-6-1-5g-space-black/p/23B-000A-00TJ6,7659.9,N/A,Aucune,2025-01-31 00:58:15
-Samsung,Galaxy A25,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a25-5g-6-1-gsm-hspa-lte-black-blue/p/23B-0002-018U3,2619.9,N/A,Aucune,2025-01-31 00:58:15
-Samsung,Galaxy Note20,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-note20-5g-6-7-mystic-green/p/N82E16875169962,0.0,N/A,Aucune,2025-01-31 00:58:15
-Samsung,Galaxy A14,64GB,Newegg,PC Laptops,https://www.newegg.com/p/23M-001E-00679,1399.9,N/A,Aucune,2025-01-31 00:58:15
-Samsung,Galaxy A35,256GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-0002-01914,2949.9,N/A,Aucune,2025-01-31 00:58:15
-Apple,iPhone 13,256GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-000A-00TW1,5439.9,N/A,Aucune,2025-01-31 00:58:15
-Apple,iPhone 13,128GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-000A-00W41,3399.9,N/A,Aucune,2025-01-31 00:58:15
-Samsung,Galaxy A13,32GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-0002-012S0,1090.0,N/A,Aucune,2025-01-31 00:58:15
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-6-1-gsm-cdma-hspa-evdo-lte-5g-black/p/23B-0002-01153,2790.0,N/A,Aucune,2025-01-31 00:58:15
-Samsung,Galaxy A05,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a05-6-7-4g-lte-silver/p/23B-0002-018V5,1149.9,1049.9,8%,2025-01-31 00:58:15
-Samsung,Galaxy S21,128GB,Newegg,PC Laptops,https://www.newegg.com/p/N82E16875168015,0.0,N/A,Aucune,2025-01-31 00:58:15
-Samsung,Galaxy S21,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-6-8-gsm-cdma-hspa-evdo-lte-5g-black/p/23B-0002-00WZ0,2560.0,N/A,Aucune,2025-01-31 00:58:15
-Apple,iPhone 12,64GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-000A-00U64,2699.9,2499.9,7%,2025-01-31 00:58:15
-Samsung,Galaxy S20,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s20-5g-6-2-cosmic-gray/p/N82E16875169850,0.0,N/A,Aucune,2025-01-31 00:58:15
-SAMSUNG,Galaxy A15,128GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-0002-018Y3,2109.6,N/A,Aucune,2025-01-31 00:58:15
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-0002-014K4,3840.0,N/A,Aucune,2025-01-31 00:58:15
-Apple,iPhone 12,128GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-000A-00U24,2499.9,2299.9,8%,2025-01-31 00:58:15
-Apple,iPhone 15,256GB,Newegg,PC Laptops,https://www.newegg.com/apple-iphone-15-pro-6-1-blue-titanium/p/N82E16875113991,9609.9,N/A,Aucune,2025-01-31 00:58:15
-Apple,iPhone 14,128GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-000A-00TH9,4149.9,N/A,Aucune,2025-01-31 00:58:15
-Apple,iPhone 14,128GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-000A-00TM3,6299.9,N/A,Aucune,2025-01-31 00:58:15
-Apple,iPhone 13,128GB,Newegg,PC Laptops,https://www.newegg.com/apple-iphone-13-pro-6-1-2g-3g-4g-lte-5g-graphite/p/23M-0003-026A4,4199.9,N/A,Aucune,2025-01-31 00:58:15
-Apple,iPhone 15,256GB,Newegg,PC Laptops,https://www.newegg.com/p/N82E16875827028,11019.9,N/A,Aucune,2025-01-31 00:58:15
-Samsung,Galaxy A14,64GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-0002-01AB3,690.0,N/A,Aucune,2025-01-31 00:58:15
-Samsung,Galaxy S24,512GB,Newegg,PC Laptops,https://www.newegg.com/p/23B-0002-018E8,10299.9,N/A,Aucune,2025-01-31 00:58:15
-Apple,iPhone 13,128GB,Newegg,PC Laptops,https://www.newegg.com/p/N82E16875827041,3997.88,N/A,Aucune,2025-02-02 18:46:07
-Apple,iPhone 13,128GB,Newegg,PC Laptops,https://www.newegg.com/p/N82E16875827041,3997.88,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168106,6613.1,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy A55,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a55-5g-6-6-awesome-lemon/p/N82E16875168208,4508.9,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-green/p/N82E16875168108,6583.04,N/A,Aucune,2025-02-02 18:46:07
-Apple,iPhone 14,256GB,Newegg,PC Laptops,https://www.newegg.com/apple-iphone-14-6-1-inch-5g-lte-blue/p/N82E16875113984,6863.6,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-white/p/N82E16875168107,6613.1,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-black/p/N82E16875168113,7615.1,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-green/p/N82E16875168116,7615.1,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-white/p/N82E16875168115,8126.12,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy A55,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a55-5g-6-6-awesome-lilac/p/N82E16875168210,4609.1,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy A06,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-blue/p/N82E16875168239,1152.2,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy A06,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-green/p/N82E16875168240,1152.2,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy A06,64GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-green/p/N82E16875168237,1052.0,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy A06,64GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-black/p/N82E16875168235,1052.0,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy A35,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lemon/p/N82E16875168207,4007.9,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy A35,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lilac/p/N82E16875168205,3607.1,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy A06,64GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-blue/p/N82E16875168236,1332.56,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168102,0.0,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy A05,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a05-6-7-black/p/N82E16875168203,1052.0,N/A,Aucune,2025-02-02 18:46:07
-SAMSUNG,Galaxy A55,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a55-5g-168-3mm-163-7mm-black/p/N82E16875168196,4609.1,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy Z,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-z-flip-3-5g-6-7-black/p/N82E16875168091,0.0,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-pink/p/N82E16875168105,0.0,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy A55,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-a55-5g-6-6-awesome-navy/p/N82E16875168202,4308.5,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy A35,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lilac/p/N82E16875168204,3907.7,N/A,Aucune,2025-02-02 18:46:07
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-black/p/N82E16875168114,0.0,N/A,Aucune,2025-02-02 18:46:07
-Brand,Model,Storage,Marketplace,Category,Link,priceInitial,pricePromo,promotiontype,collectionTime
-Apple,iPhone 13,128GB,Newegg,PC Laptops,https://www.newegg.com/p/N82E16875827041,4009.85,N/A,Aucune,2025-02-05 21:00:08
-Apple,iPhone 13,128GB,Newegg,PC Laptops,https://www.newegg.com/p/N82E16875827041,4009.85,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168106,6632.9,5959.55,10%,2025-02-05 21:00:08
-Samsung,Galaxy A55,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a55-5g-6-6-awesome-lemon/p/N82E16875168208,4522.4,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-green/p/N82E16875168108,6602.75,N/A,Aucune,2025-02-05 21:00:08
-Apple,iPhone 14,256GB,Newegg,PC Laptops,https://www.newegg.com/apple-iphone-14-6-1-inch-5g-lte-blue/p/N82E16875113984,5517.45,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-black/p/N82E16875168113,7034.9,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-green/p/N82E16875168116,7034.9,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-white/p/N82E16875168107,6632.9,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-white/p/N82E16875168115,7034.9,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy A06,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-blue/p/N82E16875168239,1155.65,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy A55,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a55-5g-6-6-awesome-lilac/p/N82E16875168210,4622.9,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy A35,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lemon/p/N82E16875168207,4019.9,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168102,0.0,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy A06,64GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-blue/p/N82E16875168236,1004.9,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy A06,64GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-green/p/N82E16875168237,1004.9,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy A06,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-green/p/N82E16875168240,1155.65,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy Z,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-z-flip-3-5g-6-7-black/p/N82E16875168091,0.0,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy A05,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a05-6-7-black/p/N82E16875168203,1055.15,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy A55,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-a55-5g-6-6-awesome-navy/p/N82E16875168202,4321.4,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy A06,64GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-black/p/N82E16875168235,1004.9,N/A,Aucune,2025-02-05 21:00:08
-SAMSUNG,Galaxy A55,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a55-5g-168-3mm-163-7mm-black/p/N82E16875168196,4622.9,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy A35,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lilac/p/N82E16875168205,3617.9,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-pink/p/N82E16875168105,0.0,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-black/p/N82E16875168114,0.0,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-green/p/N82E16875168104,0.0,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy A35,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lilac/p/N82E16875168204,3919.4,N/A,Aucune,2025-02-05 21:00:08
-Samsung,Galaxy A35,256GB,Newegg,PC Laptops,https://www.newegg.com/p/N82E16875168201,3919.4,N/A,Aucune,2025-02-05 21:00:08
-Brand,Model,Storage,Marketplace,Category,Link,priceInitial,pricePromo,promotiontype,collectionTime
-Apple,iPhone 13,128GB,Newegg,PC Laptops,https://www.newegg.com/p/N82E16875827041,3997.88,N/A,Aucune,2025-02-07 13:25:51
-Apple,iPhone 13,128GB,Newegg,PC Laptops,https://www.newegg.com/p/N82E16875827041,3997.88,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy A55,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a55-5g-6-6-awesome-lemon/p/N82E16875168208,4508.9,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168106,6613.1,5941.76,10%,2025-02-07 13:25:51
-Apple,iPhone 14,256GB,Newegg,PC Laptops,https://www.newegg.com/apple-iphone-14-6-1-inch-5g-lte-blue/p/N82E16875113984,5500.98,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-green/p/N82E16875168108,6583.04,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-black/p/N82E16875168113,7013.9,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-green/p/N82E16875168116,7013.9,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-white/p/N82E16875168115,7013.9,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy S22,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-white/p/N82E16875168107,6613.1,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy A05,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a05-6-7-black/p/N82E16875168203,1052.0,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy A55,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a55-5g-6-6-awesome-lilac/p/N82E16875168210,4609.1,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy A35,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lemon/p/N82E16875168207,4007.9,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-green/p/N82E16875168111,0.0,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy Z,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-z-flip-3-5g-6-7-black/p/N82E16875168091,0.0,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168102,0.0,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-green/p/N82E16875168104,0.0,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy A35,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lilac/p/N82E16875168205,3607.1,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy A06,64GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-blue/p/N82E16875168236,1001.9,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy A06,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-blue/p/N82E16875168239,1532.96,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy S22,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-black/p/N82E16875168114,0.0,N/A,Aucune,2025-02-07 13:25:51
-SAMSUNG,Galaxy A55,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a55-5g-168-3mm-163-7mm-black/p/N82E16875168196,4609.1,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy A06,128GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-green/p/N82E16875168240,1152.2,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy A06,64GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-green/p/N82E16875168237,1001.9,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy A35,256GB,Newegg,PC Laptops,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lilac/p/N82E16875168204,3907.7,N/A,Aucune,2025-02-07 13:25:51
-Samsung,Galaxy A35,256GB,Newegg,PC Laptops,https://www.newegg.com/p/N82E16875168201,3907.7,N/A,Aucune,2025-02-07 13:25:51
+Brand,Model,Storage,marketplace,category,Link,priceInitial,pricePromo,promotiontype,collectionTime
+Samsung,Galaxy S20,128GB,Newegg,smartphones,https://www.newegg.com/p/N82E16875168159,1650.0,,Aucune,2025-01-31 00:58:15
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168168,2650.0,,Aucune,2025-01-31 00:58:15
+Apple,iPhone 14,128GB,Newegg,smartphones,https://www.newegg.com/p/23B-000A-00UV3,3999.9,3649.9,8%,2025-01-31 00:58:15
+Apple,iPhone 13,128GB,Newegg,smartphones,https://www.newegg.com/p/23B-000A-00V30,2999.9,2749.9,8%,2025-01-31 00:58:15
+Apple,iPhone 13,128GB,Newegg,smartphones,https://www.newegg.com/p/23B-000A-00UY4,3149.9,2849.9,9%,2025-01-31 00:58:15
+Apple,iPhone 13,128GB,Newegg,smartphones,https://www.newegg.com/p/23B-000A-00NA2,3399.9,3049.9,10%,2025-01-31 00:58:15
+Apple,iPhone 13,128GB,Newegg,smartphones,https://www.newegg.com/apple-iphone-13-6-1-midnight/p/23M-0003-02672,3099.9,2799.9,9%,2025-01-31 00:58:15
+Apple,iPhone 14,256GB,Newegg,smartphones,https://www.newegg.com/apple-iphone-14-6-1-5g-space-black/p/23B-000A-00TJ6,7659.9,,Aucune,2025-01-31 00:58:15
+Samsung,Galaxy A25,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a25-5g-6-1-gsm-hspa-lte-black-blue/p/23B-0002-018U3,2619.9,,Aucune,2025-01-31 00:58:15
+Samsung,Galaxy Note20,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-note20-5g-6-7-mystic-green/p/N82E16875169962,0.0,,Aucune,2025-01-31 00:58:15
+Samsung,Galaxy A14,64GB,Newegg,smartphones,https://www.newegg.com/p/23M-001E-00679,1399.9,,Aucune,2025-01-31 00:58:15
+Samsung,Galaxy A35,256GB,Newegg,smartphones,https://www.newegg.com/p/23B-0002-01914,2949.9,,Aucune,2025-01-31 00:58:15
+Apple,iPhone 13,256GB,Newegg,smartphones,https://www.newegg.com/p/23B-000A-00TW1,5439.9,,Aucune,2025-01-31 00:58:15
+Apple,iPhone 13,128GB,Newegg,smartphones,https://www.newegg.com/p/23B-000A-00W41,3399.9,,Aucune,2025-01-31 00:58:15
+Samsung,Galaxy A13,32GB,Newegg,smartphones,https://www.newegg.com/p/23B-0002-012S0,1090.0,,Aucune,2025-01-31 00:58:15
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-6-1-gsm-cdma-hspa-evdo-lte-5g-black/p/23B-0002-01153,2790.0,,Aucune,2025-01-31 00:58:15
+Samsung,Galaxy A05,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a05-6-7-4g-lte-silver/p/23B-0002-018V5,1149.9,1049.9,8%,2025-01-31 00:58:15
+Samsung,Galaxy S21,128GB,Newegg,smartphones,https://www.newegg.com/p/N82E16875168015,0.0,,Aucune,2025-01-31 00:58:15
+Samsung,Galaxy S21,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-6-8-gsm-cdma-hspa-evdo-lte-5g-black/p/23B-0002-00WZ0,2560.0,,Aucune,2025-01-31 00:58:15
+Apple,iPhone 12,64GB,Newegg,smartphones,https://www.newegg.com/p/23B-000A-00U64,2699.9,2499.9,7%,2025-01-31 00:58:15
+Samsung,Galaxy S20,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s20-5g-6-2-cosmic-gray/p/N82E16875169850,0.0,,Aucune,2025-01-31 00:58:15
+SAMSUNG,Galaxy A15,128GB,Newegg,smartphones,https://www.newegg.com/p/23B-0002-018Y3,2109.6,,Aucune,2025-01-31 00:58:15
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/p/23B-0002-014K4,3840.0,,Aucune,2025-01-31 00:58:15
+Apple,iPhone 12,128GB,Newegg,smartphones,https://www.newegg.com/p/23B-000A-00U24,2499.9,2299.9,8%,2025-01-31 00:58:15
+Apple,iPhone 15,256GB,Newegg,smartphones,https://www.newegg.com/apple-iphone-15-pro-6-1-blue-titanium/p/N82E16875113991,9609.9,,Aucune,2025-01-31 00:58:15
+Apple,iPhone 14,128GB,Newegg,smartphones,https://www.newegg.com/p/23B-000A-00TH9,4149.9,,Aucune,2025-01-31 00:58:15
+Apple,iPhone 14,128GB,Newegg,smartphones,https://www.newegg.com/p/23B-000A-00TM3,6299.9,,Aucune,2025-01-31 00:58:15
+Apple,iPhone 13,128GB,Newegg,smartphones,https://www.newegg.com/apple-iphone-13-pro-6-1-2g-3g-4g-lte-5g-graphite/p/23M-0003-026A4,4199.9,,Aucune,2025-01-31 00:58:15
+Apple,iPhone 15,256GB,Newegg,smartphones,https://www.newegg.com/p/N82E16875827028,11019.9,,Aucune,2025-01-31 00:58:15
+Samsung,Galaxy A14,64GB,Newegg,smartphones,https://www.newegg.com/p/23B-0002-01AB3,690.0,,Aucune,2025-01-31 00:58:15
+Samsung,Galaxy S24,512GB,Newegg,smartphones,https://www.newegg.com/p/23B-0002-018E8,10299.9,,Aucune,2025-01-31 00:58:15
+Apple,iPhone 13,128GB,Newegg,smartphones,https://www.newegg.com/p/N82E16875827041,3997.88,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168106,6613.1,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy A55,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a55-5g-6-6-awesome-lemon/p/N82E16875168208,4508.9,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-green/p/N82E16875168108,6583.04,,Aucune,2025-02-02 18:46:07
+Apple,iPhone 14,256GB,Newegg,smartphones,https://www.newegg.com/apple-iphone-14-6-1-inch-5g-lte-blue/p/N82E16875113984,6863.6,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-white/p/N82E16875168107,6613.1,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-black/p/N82E16875168113,7615.1,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-green/p/N82E16875168116,7615.1,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-white/p/N82E16875168115,8126.12,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy A55,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a55-5g-6-6-awesome-lilac/p/N82E16875168210,4609.1,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy A06,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-blue/p/N82E16875168239,1152.2,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy A06,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-green/p/N82E16875168240,1152.2,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy A06,64GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-green/p/N82E16875168237,1052.0,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy A06,64GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-black/p/N82E16875168235,1052.0,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy A35,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lemon/p/N82E16875168207,4007.9,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy A35,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lilac/p/N82E16875168205,3607.1,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy A06,64GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-blue/p/N82E16875168236,1332.56,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168102,0.0,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy A05,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a05-6-7-black/p/N82E16875168203,1052.0,,Aucune,2025-02-02 18:46:07
+SAMSUNG,Galaxy A55,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a55-5g-168-3mm-163-7mm-black/p/N82E16875168196,4609.1,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy Z,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-z-flip-3-5g-6-7-black/p/N82E16875168091,0.0,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-pink/p/N82E16875168105,0.0,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy A55,128GB,Newegg,smartphones,https://www.newegg.com/samsung-a55-5g-6-6-awesome-navy/p/N82E16875168202,4308.5,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy A35,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lilac/p/N82E16875168204,3907.7,,Aucune,2025-02-02 18:46:07
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-black/p/N82E16875168114,0.0,,Aucune,2025-02-02 18:46:07
+Brand,Model,Storage,Marketplace,smartphones,Link,priceInitial,pricePromo,promotiontype,collectionTime
+Apple,iPhone 13,128GB,Newegg,smartphones,https://www.newegg.com/p/N82E16875827041,4009.85,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168106,6632.9,5959.55,10%,2025-02-05 21:00:08
+Samsung,Galaxy A55,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a55-5g-6-6-awesome-lemon/p/N82E16875168208,4522.4,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-green/p/N82E16875168108,6602.75,,Aucune,2025-02-05 21:00:08
+Apple,iPhone 14,256GB,Newegg,smartphones,https://www.newegg.com/apple-iphone-14-6-1-inch-5g-lte-blue/p/N82E16875113984,5517.45,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-black/p/N82E16875168113,7034.9,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-green/p/N82E16875168116,7034.9,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-white/p/N82E16875168107,6632.9,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-white/p/N82E16875168115,7034.9,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy A06,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-blue/p/N82E16875168239,1155.65,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy A55,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a55-5g-6-6-awesome-lilac/p/N82E16875168210,4622.9,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy A35,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lemon/p/N82E16875168207,4019.9,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168102,0.0,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy A06,64GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-blue/p/N82E16875168236,1004.9,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy A06,64GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-green/p/N82E16875168237,1004.9,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy A06,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-green/p/N82E16875168240,1155.65,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy Z,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-z-flip-3-5g-6-7-black/p/N82E16875168091,0.0,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy A05,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a05-6-7-black/p/N82E16875168203,1055.15,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy A55,128GB,Newegg,smartphones,https://www.newegg.com/samsung-a55-5g-6-6-awesome-navy/p/N82E16875168202,4321.4,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy A06,64GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-black/p/N82E16875168235,1004.9,,Aucune,2025-02-05 21:00:08
+SAMSUNG,Galaxy A55,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a55-5g-168-3mm-163-7mm-black/p/N82E16875168196,4622.9,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy A35,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lilac/p/N82E16875168205,3617.9,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-pink/p/N82E16875168105,0.0,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-black/p/N82E16875168114,0.0,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-green/p/N82E16875168104,0.0,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy A35,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lilac/p/N82E16875168204,3919.4,,Aucune,2025-02-05 21:00:08
+Samsung,Galaxy A35,256GB,Newegg,smartphones,https://www.newegg.com/p/N82E16875168201,3919.4,,Aucune,2025-02-05 21:00:08
+Apple,iPhone 13,128GB,Newegg,smartphones,https://www.newegg.com/p/N82E16875827041,3997.88,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy A55,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a55-5g-6-6-awesome-lemon/p/N82E16875168208,4508.9,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168106,6613.1,5941.76,10%,2025-02-07 13:25:51
+Apple,iPhone 14,256GB,Newegg,smartphones,https://www.newegg.com/apple-iphone-14-6-1-inch-5g-lte-blue/p/N82E16875113984,5500.98,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-green/p/N82E16875168108,6583.04,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-black/p/N82E16875168113,7013.9,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-green/p/N82E16875168116,7013.9,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-white/p/N82E16875168115,7013.9,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy S22,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-white/p/N82E16875168107,6613.1,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy A05,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a05-6-7-black/p/N82E16875168203,1052.0,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy A55,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a55-5g-6-6-awesome-lilac/p/N82E16875168210,4609.1,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy A35,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lemon/p/N82E16875168207,4007.9,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-green/p/N82E16875168111,0.0,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy Z,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-z-flip-3-5g-6-7-black/p/N82E16875168091,0.0,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-phantom-black/p/N82E16875168102,0.0,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-1-5g-green/p/N82E16875168104,0.0,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy A35,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lilac/p/N82E16875168205,3607.1,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy A06,64GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-blue/p/N82E16875168236,1001.9,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy A06,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-blue/p/N82E16875168239,1532.96,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy S22,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-s22-6-6-full-rectangle-6-4-rounded-corners-5g-phantom-black/p/N82E16875168114,0.0,,Aucune,2025-02-07 13:25:51
+SAMSUNG,Galaxy A55,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a55-5g-168-3mm-163-7mm-black/p/N82E16875168196,4609.1,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy A06,128GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-green/p/N82E16875168240,1152.2,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy A06,64GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a06-6-7-gsm-hspa-lte-light-green/p/N82E16875168237,1001.9,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy A35,256GB,Newegg,smartphones,https://www.newegg.com/samsung-galaxy-a35-5g-6-6-awesome-lilac/p/N82E16875168204,3907.7,,Aucune,2025-02-07 13:25:51
+Samsung,Galaxy A35,256GB,Newegg,smartphones,https://www.newegg.com/p/N82E16875168201,3907.7,,Aucune,2025-02-07 13:25:51
